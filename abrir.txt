@@ -1,0 +1,9 @@
+C:\Users\moha\Desktop\React\REACT DJANGO icard\icard_django\icard
+
+en esa ruta python manage.py runserver
+
+
+C:\Users\moha\Desktop\React\REACT DJANGO icard\icard_django\envs\icard\Scripts
+
+
+en esta ruta damos activate para activar el ambiente 
